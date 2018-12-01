@@ -18,6 +18,7 @@ h1 {
 }
 h2 {
   color:white;
+  -webkit-color:white;
   font-family: "Poiret One";
   font-size: 50px;
   text-align: center;
