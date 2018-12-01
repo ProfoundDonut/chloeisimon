@@ -16,3 +16,12 @@ h1 {
   font-size: 70px;
   text-align: center;
 }
+h2 {
+  color:white;
+  font-family: "Raleway";
+  font-size: 50px;
+  text-align: center;
+}
+#sec1 {
+  padding-top: 2.5%;
+}
