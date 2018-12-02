@@ -29,3 +29,11 @@ h2 {
 .rotate {
   transform: rotate(90deg);
 }
+.video {
+  margin-left:2%;
+  margin-top:2%;
+}
+p {
+  color:white;
+  text-align: center;
+}
